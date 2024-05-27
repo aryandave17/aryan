@@ -36,10 +36,10 @@
     </tr>
     <tr>
       <td>04</td>
-      <td>CORS Handler</td>
-      <td><a href="#">Link</a></td>
-      <td><a href="#">Repository P</a></td>
-      <td><a href="#">Post</a></td>
+      <td>four box try </td>
+      <td><a href="https://aryandave17.github.io/Four-boxes-try-Game.-/">Link</a></td>
+      <td><a href="https://aryandave17.github.io/Four-boxes-try-Game.-/">Repository P</a></td>
+      <td><a href="https://aryandave17.github.io/Four-boxes-try-Game.-/">Post</a></td>
     </tr>
     <tr>
       <td>05</td>
@@ -51,39 +51,4 @@
   </tbody>
 </table>
 
-## Mini Major Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>S.No</th>
-      <th>Mini Major Project</th>
-      <th>Live Link</th>
-      <th>GitHub Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01</td>
-      <td>Life Track</td>
-      <td><a href="#">Link</a></td>
-      <td><a href="#">Repository</a></td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Weather Widget</td>
-      <td><a href="#">Link</a></td>
-      <td><a href="#">Repository</a></td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>SimonSay Game JS</td>
-      <td><a href="#">Link</a></td>
-      <td><a href="#">Repository</a></td>
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Amazon Clone</td>
-      <td><a href="#">Link</a></td>
-      <td><a href="#">Repository N-Res</a></td>
-    </tr>
